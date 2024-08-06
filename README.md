@@ -38,6 +38,8 @@ this is a Custom Sword Combat System that is made for the purpose of gaining Kno
 | Attack      | Left Mouse Button  |
 | Dodge       | Ctrl               |
 
+Keep in mind that dodging won't work unless an enemy is attacking you and a red mark is on the top of it's head, you need to perform a perfect dodge in order to avoid damage which is to time the dodge with the enemy attack.
+
 ## Gained Knowledge
 
 in this project gained knowledge in making combat systems as i usually didn't try to implement an effective freeform combat.
