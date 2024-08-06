@@ -1,7 +1,7 @@
 
 # Sword Combat System
 
-![Project Screenshot](https://github.com/YassinTarekHelmy/SwordCombatSystem/issues/1#issue-2450029330)
+![Project Screenshot](https://imgur.com/Y0O9odV)
 
 ## Description
 
