@@ -1,7 +1,7 @@
 
 # Sword Combat System
 
-![Project Screenshot](https://imgur.com/Y0O9odV)
+![Project Screenshot](https://i.imgur.com/Y0O9odV.png)
 
 ## Description
 
